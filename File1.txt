@@ -1,4 +1,5 @@
 Welcome to git session !!!
 
 Hello World...
-Change to fix bug1
+Change to fix bug1.
+Change to fix bug2.
